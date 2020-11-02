@@ -10,10 +10,10 @@ namespace HalogenEngH_SCodeSkl
     {
         //fields
         public string company;
-        public string locationWorked;
+        public string contractorPositionWorked;
         //constructor
-        public Contractor()
-            :base ()
+        public Contractor(string name, List<string> emergencyContact, string email, string address)
+            :base (name, emergencyContact, email, address)
         {
 
         }

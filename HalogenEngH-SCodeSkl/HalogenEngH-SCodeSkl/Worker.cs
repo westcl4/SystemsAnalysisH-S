@@ -9,10 +9,10 @@ namespace HalogenEngH_SCodeSkl
     public class Worker : Actor
     {
         //fields
-
+        public string workerPosition;
         //constructor
-        public Worker()
-            :base()
+        public Worker(string name, List<string> emergencyContact, string email, string address)
+            :base(name, emergencyContact, email, address)
         {
 
         }

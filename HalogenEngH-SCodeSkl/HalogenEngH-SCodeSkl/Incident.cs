@@ -6,16 +6,19 @@ using System.Threading.Tasks;
 
 namespace HalogenEngH_SCodeSkl
 {
-    public class Manager : Actor
+    public class Incident
     {
         //fields
-        public string managerialPosition;
+
         //constructor
-        public Manager(string name, List<string> emergencyContact, string email, string address)
-            :base (name, emergencyContact, email, address)
+        public Incident()
         {
 
         }
         //methods
+        public void IncidentOccurs()
+        {
+
+        }
     }
 }

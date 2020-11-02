@@ -15,18 +15,18 @@ namespace HalogenEngH_SCodeSkl
         public List<int> timeInTimeOut;
         public int phoneNumber;
         public int departmentWorkshop;
+        public int dateOfBirth;
+        public string email;
+        public string address;
         //constructor
-        public Actor()
+        public Actor(string name, List<string> emergencyContact, string email, string address)
         {
-
+            this.name = name;
+            this.emergencyContact = emergencyContact;
+            this.email = email;
+            this.address = address;
         }
         //methods
-        public void ReportIncident()
-        {
-        }
-
-        public void GetInjured()
-        {
-        }
+        
     }
 }
