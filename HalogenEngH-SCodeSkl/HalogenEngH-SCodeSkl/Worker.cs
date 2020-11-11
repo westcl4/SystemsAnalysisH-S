@@ -29,5 +29,10 @@ namespace HalogenEngH_SCodeSkl
         {
 
         }
+        public void ImplementSafetyImprovements()
+        {
+
+        }
+        
     }
 }

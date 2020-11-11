@@ -41,5 +41,13 @@ namespace HalogenEngH_SCodeSkl
         {
 
         }
+        public void RecieveImprovementSuggestion()
+        {
+
+        }
+        public void WrittenReport()
+        {
+
+        }
     }
 }
