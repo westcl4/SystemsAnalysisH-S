@@ -17,5 +17,21 @@ namespace HalogenEngH_SCodeSkl
 
         }
         //methods
+        public void TrainingRequired()
+        {
+
+        }
+        public void LeadsTraining()
+        {
+
+        }
+        public void RecordsTraining()
+        {
+
+        }
+        public void SubmitsParticipants()
+        {
+
+        }
     }
 }

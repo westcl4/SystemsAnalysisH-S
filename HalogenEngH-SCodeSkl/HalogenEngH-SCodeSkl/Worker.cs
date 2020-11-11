@@ -16,6 +16,18 @@ namespace HalogenEngH_SCodeSkl
         {
 
         }
+        //methods
+        public void InductionTraining()
+        {
 
+        }
+        public void NewEquipmentTraining()
+        {
+
+        }
+        public void RefresherTraining()
+        {
+
+        }
     }
 }
