@@ -45,6 +45,41 @@ namespace HalogenEngH_SCodeSkl
         {
             return WorkStop();
         }
-        public void 
+        public void CheckUserData()
+        {
+
+        }
+        public void WriteData()
+        {
+
+        }
+        public void ReadData()
+        {
+
+        }
+        public void DisplayStatus()
+        {
+
+        }
+        public void DisplayReport()
+        {
+
+        }
+        public void SaveReport()
+        {
+
+        }
+        public bool CheckCompletionOfRequiredFields()
+        {
+            return CheckCompletionOfRequiredFields();
+        }
+        public void AcceptCompletion()
+        {
+
+        }
+        public void StoreReport()
+        {
+
+        }
     }
 }

@@ -33,5 +33,13 @@ namespace HalogenEngH_SCodeSkl
         {
 
         }
+        public void FillInReport()
+        {
+
+        }
+        public void SaveReport()
+        {
+
+        }
     }
 }
